@@ -43,6 +43,7 @@ javascript-astro
 javascript-ember
 javascript-gatsby
 javascript-nextjs
+javascript-nestjs
 javascript-react
 javascript-remix
 javascript-solid
